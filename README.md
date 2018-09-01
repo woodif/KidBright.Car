@@ -19,3 +19,5 @@ Hardware
 * Motor Drive L298N
 * Baterry AA 1.2V x 8
 
+App Remote
+http://apps.clicknect.com/espert/remote/
