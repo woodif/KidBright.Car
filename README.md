@@ -2,10 +2,10 @@
 ## Kidbright.CarProject with Remote CMMC.
 
 ### Demo
-![alt text](https://flic.kr/p/2azjW17)
+![alt text](https://github.com/woodif/KidBright.Car/blob/master/pic/demo.jpg)
 
 ### Schematic
-![x5 pin mapping](https://www.flickr.com/photos/146790720@N07/43686432954/in/dateposted-public/)
+![x5 pin mapping](https://github.com/woodif/KidBright.Car/blob/master/pic/kidbright.JPG)
 
 
 ### ฟังก์ชันการใช้งาน
