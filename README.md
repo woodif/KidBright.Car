@@ -2,7 +2,7 @@
 ## Kidbright.CarProject with Remote CMMC.
 
 ### Demo
-![x5 pin mapping](https://flic.kr/p/2azjW17)
+![alt text](https://flic.kr/p/2azjW17)
 
 ### Schematic
 ![x5 pin mapping](https://www.flickr.com/photos/146790720@N07/43686432954/in/dateposted-public/)
