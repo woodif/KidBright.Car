@@ -1,9 +1,6 @@
 # KidBright.Car
 ## Kidbright.CarProject with Remote CMMC.
 
-### Demo
-![alt text](https://github.com/woodif/KidBright.Car/blob/master/pic/demo.jpg)
-
 ### Schematic
 ![x5 pin mapping](https://github.com/woodif/KidBright.Car/blob/master/pic/kidbright.JPG)
 
