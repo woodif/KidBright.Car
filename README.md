@@ -9,8 +9,8 @@
 
 
 ### ฟังก์ชันการใช้งาน
-wifi : Kigbright101
-pw : 12345678
+* wifi : Kigbright101
+* pw : 12345678
 
 ### Hardware
 ============
